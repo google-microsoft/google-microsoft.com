@@ -10,11 +10,11 @@
 module.exports = {
   title: '唯软科技',
   tagline: '东莞市唯软网络科技有限公司',
-  url: 'http://www.google-microsoft.com',
-  baseUrl: '/',
+  url: 'https://google-microsoft.github.io/google-microsoft.com',
+  baseUrl: './',
   onBrokenLinks: 'throw',
   favicon: 'img/logo.png',
-  organizationName: '唯软科技', // Usually your GitHub org/user name.
+  organizationName: 'google-microsoft', // Usually your GitHub org/user name.
   projectName: 'google-microsoft.com', // Usually your repo name.
   themeConfig: {
     navbar: {

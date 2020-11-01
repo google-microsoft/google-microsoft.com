@@ -1,5 +1,11 @@
 # Website
 
+http://google-microsoft.com
+
+http://www.google-microsoft.com
+
+https://google-microsoft.github.io/google-microsoft.com/
+
 This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
 
 ### Installation

@@ -11,9 +11,9 @@ module.exports = {
   title: '唯软科技',
   tagline: '东莞市唯软网络科技有限公司',
   url: 'https://google-microsoft.github.io/google-microsoft.com',
-  baseUrl: './',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
-  favicon: 'img/logo.png',
+  favicon: 'img/logo.svg',
   organizationName: 'google-microsoft', // Usually your GitHub org/user name.
   projectName: 'google-microsoft.com', // Usually your repo name.
   themeConfig: {
@@ -21,7 +21,7 @@ module.exports = {
       title: '唯软科技',
       logo: {
         alt: '东莞市唯软网络科技有限公司',
-        src: 'img/logo.png',
+        src: 'img/logo.svg',
       },
       items: [
         {

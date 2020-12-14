@@ -29,15 +29,20 @@ module.exports = {
           label: '服务',
           position: 'left',
         },
+        {to: 'blog', label: '新闻', position: 'left'},
         {
           to: 'docs/',
           label: '关于我们',
           position: 'left',
         },
-        {to: 'blog', label: '新闻', position: 'left'},
         {
           to: 'docs/jobs/job-job',
           label: '加入我们',
+          position: 'right',
+        },
+        {
+          to: 'docs/cases/health-charger/',
+          label: '成功案例',
           position: 'right',
         },
         // Please keep GitHub link to the right for consistency.

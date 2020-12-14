@@ -19,5 +19,6 @@ module.exports = {
     ],
     '联系我们': ['contact'],
     '加入我们': ['jobs/job-job'],
+    '成功案例': ['cases/health-charger'],
   },
 };
